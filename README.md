@@ -1,164 +1,89 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Kiran+Bonumahantthi;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+Data+into+Business+Decisions" alt="Typing SVG" />
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Kiran%20Bonumahantthi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Data%20Analyst%20%7C%204%2B%20Years%20of%20Experience&descSize=18&descAlignY=52" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=📊+Turning+Data+into+Decisions;🔍+SQL+%7C+Power+BI+%7C+Python+%7C+Excel;📈+4%2B+Years+of+Data+Analytics+Excellence;🏆+Building+Insights+That+Drive+Business+Growth)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saikiranbonumahantthi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/saikiran-bonumahantthi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-blue?style=flat" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Data Analytics" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-🎯 **Senior Data Analyst** with **4+ years** of experience transforming complex data into actionable business intelligence.
-
-📊 I specialize in building **executive-level Power BI dashboards**, writing complex **SQL queries**, and delivering insights that drive **multi-million dollar decisions**.
-
-🔥 Passionate about **data storytelling** — I don't just analyze data, I make it speak to stakeholders.
-
-- 🏢 Currently working as a **Senior Data Analyst**
-- 📍 **Hyderabad, India**
-- 💼 Expertise: **Power BI | SQL | Python | Excel | Data Modeling**
-- 🎓 Specialized in **Business Intelligence & Analytics**
-- 📫 Reach me: **saikiranbonumahantthi@gmail.com**
-- ⚡ Fun fact: I once reduced a 3-hour manual reporting process to **5 minutes** with Power BI automation!
+🎯 **Data Analyst** with hands-on experience in transforming complex datasets into clear, actionable insights  
+📊 Specialized in **Power BI dashboards**, **SQL analytics**, and **Python-based EDA**  
+💡 Passionate about storytelling with data — from raw numbers to executive-ready reports  
+🔍 Experienced across industries: **Retail, E-Commerce, Telecom, BFSI, Hospitality**  
+📍 Based in India | Open to Data Analyst roles (Full-time / Remote)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<div align="center">
+**Languages & Querying**
 
-### 📊 Business Intelligence & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🗄️ Database & Query Languages
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### 🐍 Programming & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**BI & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+**Data & Databases**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ☁️ Cloud & Data Platforms
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+**Tools**
 
-</div>
-
----
-
-## 🏆 Achievements & Impact
-
-<div align="center">
-
-| 🎯 Metric | 📈 Achievement |
-|-----------|---------------|
-| ⏱️ Time Saved | Reduced reporting time by **85%** using Power BI automation |
-| 💰 Revenue Impact | Identified **$2M+** in cost-saving opportunities through data analysis |
-| 📊 Dashboards Built | **50+ executive dashboards** delivered across departments |
-| 🔄 Data Pipelines | Automated **20+ manual** data processes |
-| 👥 Stakeholders Served | Partnered with **C-suite** & cross-functional teams |
-| 📁 Data Volume | Analyzed datasets with **10M+ rows** daily |
-
-</div>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📁 Featured Projects
+## 🚀 Featured Projects
 
-### 🔴 [Zomato Data Analysis](https://github.com/saikiranbonumahantthi/Zomato)
-> **Tools:** Python | SQL | Power BI | Pandas
-- 🍕 Analyzed **50,000+ restaurant records** to uncover dining trends
-- 📊 Built interactive dashboard showing city-wise performance metrics
-- 🎯 Identified top cuisines & ratings patterns driving customer satisfaction
-
-### 📊 [Power BI Projects Portfolio](https://github.com/saikiranbonumahantthi/Power-BI-Projects)
-> **Tools:** Power BI | DAX | Power Query | SQL
-- 📈 Collection of **enterprise-grade** Power BI dashboards
-- 🔗 Complex **DAX measures** and calculated columns
-- 🔄 Automated data refresh via Power Query transformations
-
-### 📉 [Excel Analytics](https://github.com/saikiranbonumahantthi/Excel_Analytics)
-> **Tools:** Advanced Excel | VBA | Pivot Tables | Power Query
-- 🧮 Advanced financial modeling and forecasting templates
-- 📊 Dynamic pivot reports with slicers and timeline filters
-- 🤖 VBA macros for report automation
-
-### 🐍 [Python Data Analysis](https://github.com/saikiranbonumahantthi/python)
-> **Tools:** Python | Pandas | NumPy | Matplotlib | Seaborn
-- 📉 Statistical analysis and hypothesis testing
-- 🔍 Exploratory data analysis (EDA) frameworks
-- 📊 Custom visualization libraries
+| Project | Tools | Highlights |
+|---|---|---|
+| [📊 Power BI Portfolio](https://github.com/saikiranbonumahantthi/Power-BI-Projects) | Power BI, DAX, SQL | 10+ enterprise dashboards across 6 industries |
+| [📈 Excel Analytics](https://github.com/saikiranbonumahantthi/Excel_Analytics) | Excel, Power Query, VBA | P&L reports, financial KPI dashboards |
+| [🍽️ Zomato Analysis](https://github.com/saikiranbonumahantthi/Zomato) | Python, SQL, Power BI | 50,000+ restaurant records analyzed |
+| [📋 Excel Reports](https://github.com/saikiranbonumahantthi/Excel) | Excel | Market performance & customer P&L reports |
 
 ---
 
-## 📊 Core Competencies
+## 📊 GitHub Stats
 
-```
-📌 Data Analytics & Reporting     ████████████████████  98%
-📌 Power BI Development           ████████████████████  97%
-📌 SQL & Database Management      ███████████████████░  95%
-📌 Excel & Advanced Analytics     ████████████████████  98%
-📌 Python for Data Analysis       ████████████████░░░░  80%
-📌 Data Modeling & ETL            ██████████████████░░  90%
-📌 Business Intelligence          ████████████████████  96%
-📌 Data Storytelling              ████████████████████  97%
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saikiranbonumahantthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikiranbonumahantthi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikiranbonumahantthi&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📬 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="mailto:saikiranbonumahanthi1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saikiran-bonumahantthi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/saikiranbonumahantthi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saikiranbonumahantthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saikiranbonumahantthi&theme=tokyonight&hide_border=true" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikiranbonumahantthi&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-
-</div>
-
----
-
-## 🏅 Certifications & Skills
-
-<div align="center">
-
-![Microsoft PL-300](https://img.shields.io/badge/Microsoft%20PL--300-Power%20BI%20Analyst-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
-![SQL Certified](https://img.shields.io/badge/SQL-Advanced%20Certified-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4%2B%20Years-blue?style=for-the-badge&logo=databricks&logoColor=white)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikiran-bonumahantthi)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saikiranbonumahantthi)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikiranbonumahantthi@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Data is not just numbers — it's the story behind every business decision."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=saikiranbonumahantthi&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+<p align="center">
+  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
+</p>
